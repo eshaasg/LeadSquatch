@@ -1,0 +1,30 @@
+{
+  "description": "BitMart is a digital asset trading platform that focuses on cryptocurrency.",
+  "company_overview": "Joe Salama has been appointed as Chief Compliance Officer at Coinbase, succeeding Melissa Strait, who is stepping down after over four years in the role. Salama, formerly of Deutsche Bank, will begin his new position on May 5, 2025, bringing extensive experience in anti-financial crime and regulatory compliance to Coinbase as the company faces increased regulatory scrutiny.",
+  "industry_categories": [
+    "Blockchain",
+    "Cryptocurrency",
+    "FinTech"
+  ],
+  "news": [
+    {
+      "date": "Jun 11, 2025",
+      "source": "Cointelegraph",
+      "title": "Fortune 500âs interest in stablecoins triples from last year: Coinbase",
+      "url": "https://cointelegraph.com/news/stablecoin-interest-grows-fortune-500-coinbase-survey"
+    },
+    {
+      "date": "Jun 10, 2025",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "title": "Blockchain Initiatives Have Been Adopted by 60% of Fortune 500 Companies: Coinbase Survey",
+      "url": "https://www.coindesk.com/markets/2025/06/10/blockchain-initiatives-have-been-adopted-by-60-of-fortune-500-companies-coinbase-survey"
+    },
+    {
+      "date": "Jun 10, 2025",
+      "source": "Cointelegraph",
+      "title": "Bitcoin, US crypto stocks rise as more firms plan BTC buys",
+      "url": "https://cointelegraph.com/news/crypto-stocks-bitcoin-gain-companies-buy-btc"
+    }
+  ],
+  "news_summary": "More than one third of small and medium sized businesses (SMB) are using crypto. 60% of Fortune 500 companies are working on blockchain projects. More than 80% of institutional investors plan to increase their exposure to crypto this year. The report was published by digital asset exchange, CoinDesk. 90% of Fortune 500 execs surveyed said clear regulation is needed. 82% of those surveyed said they plan to start using crypto in the next three years. The survey was carried out by third-party research firm Coinbase. It surveyed 251 decision-makers at small and medium-sized businesses."
+}
